@@ -7,7 +7,7 @@ group 'org.example'
 version '0.0.1'
 
 application {
-    mainClass.set('org.example.javadiscordbot.DiscordBot')
+    mainClass.set('org.botexample.DiscordBot')
 }
 
 repositories {

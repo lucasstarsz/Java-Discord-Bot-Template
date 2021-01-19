@@ -1,4 +1,4 @@
-package org.example.javadiscordbot;
+package org.botexample;
 
 import net.dv8tion.jda.api.entities.ChannelType;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
