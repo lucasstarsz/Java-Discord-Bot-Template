@@ -6,7 +6,7 @@ This template uses Gradle, and should be very simple to work with.
 
 ## Where's the code?
 
-The code can be found in [`src/main/java/org/example/javadiscordbot/`][2].
+The code can be found in [`src/main/java/org/botexample`][2].
 
 ## Things you need to provide
 
@@ -24,4 +24,4 @@ Nothing! Well, other than a discord bot token.
 For more information on how to use JDA, [check out their github repository][1].
 
 [1]: https://github.com/DV8FromTheWorld/JDA "The JDA github repository."
-[2]: https://github.com/lucasstarsz/Java-Discord-Bot-Template/tree/main/src/main/java/org/example/javadiscordbot "Main source code of the template."
+[2]: https://github.com/lucasstarsz/Java-Discord-Bot-Template/tree/main/src/main/java/org/botexample "Main source code of the template."
