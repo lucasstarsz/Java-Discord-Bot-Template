@@ -15,7 +15,7 @@ Nothing! Well, other than a discord bot token.
 ## Building and Running
 
 - Open up a terminal, such as Bash or Powershell 
-- Navigate to the top level folder of this project (`".../Discord Bot Template"`)
+- Navigate to the top level folder of this project (`".../Discord-Bot-Template"`)
 - Type `gradle wrapper` to ensure gradle works as intended
   - You only need to run this the first time you download the project.
 - Build the program using `./gradlew clean build`.
