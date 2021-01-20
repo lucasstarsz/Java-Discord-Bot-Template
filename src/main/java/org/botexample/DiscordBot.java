@@ -9,7 +9,7 @@ import javax.security.auth.login.LoginException;
 
 public class DiscordBot {
     public static void main(String[] args) {
-        /* A token must be provided. */
+        // A token must be provided.
         if (args.length < 1) {
             throw new IllegalStateException("You have to provide a token as the first argument!");
         }
