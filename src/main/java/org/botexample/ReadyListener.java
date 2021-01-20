@@ -7,6 +7,6 @@ import org.jetbrains.annotations.NotNull;
 public class ReadyListener extends ListenerAdapter {
     @Override
     public void onReady(@NotNull ReadyEvent event) {
-        System.out.println("The bot is ready for takeoff!");
+        System.out.println(event.getJDA().getSelfUser().getName() + " is ready for takeoff!");
     }
 }
