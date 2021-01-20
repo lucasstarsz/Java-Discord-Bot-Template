@@ -21,6 +21,13 @@ Nothing! Well, other than a discord bot token.
 - Build the program using `./gradlew clean build`.
 - Run the build with `./gradlew run --args "your discord bot token here"`.
 
+## What does this template do?
+
+This template currently does the following:
+- Displays a "ready for takeoff" message on the `ready` event.
+- Prints out a chatter's message every time they speak in a channel visible to the bot.
+- Prints out a chatter's message every time they Direct Message (DM) the bot.
+
 For more information on how to use JDA, [check out their github repository][1].
 
 [1]: https://github.com/DV8FromTheWorld/JDA "The JDA github repository."
